@@ -1,4 +1,4 @@
-# A Higher-Order Supercompiler in Scala
+# HOSC: A Higher-Order Supercompiler in Scala
 
 > This site is associated with the project <https://github.com/ilya-klyuchnikov/hosc>.
 
