@@ -34,7 +34,7 @@ shown as `code`.
 
 *functionDefinition* ::= *functionName* `=` *abstraction* `;`
 
-*expression* :: = *variable* \| *constructor* \| *functionName* \| *abstraction* \| *application* \| *caseExpression* \| *letrec* | `(` *expression* `)`
+*expression* :: = *variable* \| *constructor* \| *functionName* \| *abstraction* \| *application* \| *caseExpression* \| *letrec* \| `(` *expression* `)`
 
 *constructor* ::= *constructorName* {*expression*}
 
